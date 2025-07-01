@@ -194,7 +194,7 @@ This project provided hands-on experience working with Azure CLI and Bash script
 </p>
 
 <p align="left">
-Through each step — from verifying account details, deploying infrastructure, and validating results, to responsibly cleaning up — this exercise reinforced essential cloud operations skills applicable to real-world DevOps and cloud administration workflows.
+This exercise reinforced essential cloud operations skills by walking through each step, including verifying account details, deploying infrastructure, validating results, and completing a responsible cleanup. These tasks reflect real-world scenarios in DevOps and cloud administration.
 </p>
 
 <p align="left">
